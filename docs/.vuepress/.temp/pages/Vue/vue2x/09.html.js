@@ -1,5 +1,5 @@
 import comp from "G:/Blog/docs/.vuepress/.temp/pages/Vue/vue2x/09.html.vue"
-const data = JSON.parse("{\"path\":\"/Vue/vue2x/09.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"09\",\"slug\":\"_09\",\"link\":\"#_09\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"Vue/vue2x/09.md\"}")
+const data = JSON.parse("{\"path\":\"/Vue/vue2x/09.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"09\",\"slug\":\"_09\",\"link\":\"#_09\",\"children\":[]}],\"git\":{\"updatedTime\":1709480523000,\"contributors\":[{\"name\":\"Anthony-pos\",\"email\":\"1169505302@qq.com\",\"commits\":1}]},\"filePathRelative\":\"Vue/vue2x/09.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

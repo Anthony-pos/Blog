@@ -80,7 +80,16 @@ module.exports = [
             },
             {
                 text: 'vue 3x',
-                link: '../Vue/vue3x',
+                link: ''
+            }
+        ]
+    },
+    {
+        text: 'Linux',
+        children: [
+            {
+                text: 'Linux简介',
+                link: '../Linux/00.Introduction to Linux.md'
             }
         ]
     }

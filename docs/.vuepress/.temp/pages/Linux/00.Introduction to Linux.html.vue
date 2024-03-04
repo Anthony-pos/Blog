@@ -1,0 +1,65 @@
+<template><div><h1 id="linux简介" tabindex="-1"><a class="header-anchor" href="#linux简介"><span>Linux简介</span></a></h1>
+<hr>
+<p>什么是Linux？相信你既然来学习Linux，那么对于Linux或多或少有了一定的认识，在此我就不过多赘述。</p>
+<blockquote>
+<p>Linux 是一个开源的、类 Unix 操作系统的内核。它是一个典型的多用户、多任务操作系统，广泛用于服务器、嵌入式系统和个人计算机等各种领域。Linux 内核最初由芬兰程序员 Linus Torvalds 在1991年创建，并在之后得到了全球范围内的贡献。</p>
+</blockquote>
+<h2 id="本篇适合谁阅读" tabindex="-1"><a class="header-anchor" href="#本篇适合谁阅读"><span>本篇适合谁阅读？</span></a></h2>
+<p>关于Linux的知识繁多，本篇以Linux的发行版本Ubuntu为例，侧重于Linux命令，文件管理，服务器等方面，适合初次接触Linux的新人阅读。</p>
+<h2 id="linux的特点" tabindex="-1"><a class="header-anchor" href="#linux的特点"><span>Linux的特点</span></a></h2>
+<ol>
+<li><strong>开源：</strong> Linux 内核以及大部分相关的软件都是开源的，这意味着用户可以查看、修改和分发源代码。</li>
+<li><strong>多用户、多任务：</strong> Linux 是一个多用户系统，多个用户可以同时访问系统。它也支持多任务，多个程序可以同时运行。</li>
+<li><strong>稳定性和安全性：</strong> Linux 以其高度的稳定性和安全性而闻名。服务器领域广泛使用 Linux 操作系统，因为它能够提供长时间的稳定运行。</li>
+<li><strong>多平台支持：</strong> Linux 可以运行在各种硬件架构上，从个人计算机到服务器、嵌入式设备等。</li>
+<li><strong>命令行界面：</strong> Linux 提供强大的命令行界面，使得用户可以通过命令行进行系统管理和配置。</li>
+<li><strong>包管理系统：</strong> 大多数 Linux 发行版都提供了强大的包管理系统，用户可以方便地安装、升级和卸载软件。</li>
+<li><strong>社区支持：</strong> 由于 Linux 是开源的，全球有庞大的社区支持。用户可以通过社区获得帮助、分享经验和解决问题。</li>
+</ol>
+<h2 id="linux的发行版本" tabindex="-1"><a class="header-anchor" href="#linux的发行版本"><span>Linux的发行版本</span></a></h2>
+<ul>
+<li><strong>Debian：</strong> <code v-pre>Ubuntn</code> <code v-pre>Linux Mint</code></li>
+<li><strong>Fedora：</strong> <code v-pre>RHEL CentOS</code> <code v-pre>Oracle Linux</code></li>
+<li><strong>SUSE：</strong> <code v-pre>SLES</code> <code v-pre>openSUSE</code></li>
+<li><strong>其他发行版本</strong></li>
+</ul>
+<h2 id="linux-vs-windows" tabindex="-1"><a class="header-anchor" href="#linux-vs-windows"><span>Linux VS Windows</span></a></h2>
+<table>
+<thead>
+<tr>
+<th>比较</th>
+<th>Windows</th>
+<th>Linux</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>界面</td>
+<td>界面统一，外壳程序固定所有 Windows 程序菜单几乎一致，快捷键也几乎相同</td>
+<td>图形界面风格依发布版不同而不同，可能互不兼容。GNU/Linux 的终端机是从 UNIX 传承下来，基本命令和操作方法也几乎一致</td>
+</tr>
+<tr>
+<td>驱动程序</td>
+<td>驱动程序丰富，版本更新频繁。默认安装程序里面一般包含有该版本发布时流行的硬件驱动程序，之后所出的新硬件驱动依赖于硬件厂商提供。对于一些老硬件，如果没有了原配的驱动有时很难支持。另外，有时硬件厂商未提供所需版本的 Windows 下的驱动，也会比较头痛</td>
+<td>由志愿者开发，由 Linux 核心开发小组发布，很多硬件厂商基于版权考虑并未提供驱动程序，尽管多数无需手动安装，但是涉及安装则相对复杂，使得新用户面对驱动程序问题（是否存在和安装方法）会一筹莫展。但是在开源开发模式下，许多老硬件尽管在Windows下很难支持的也容易找到驱动。HP、Intel、AMD 等硬件厂商逐步不同程度支持开源驱动，问题正在得到缓解。</td>
+</tr>
+<tr>
+<td>使用</td>
+<td>使用比较简单，容易入门。图形化界面对没有计算机背景知识的用户使用十分有利。</td>
+<td>图形界面使用简单，容易入门。文字界面，需要学习才能掌握。</td>
+</tr>
+<tr>
+<td>学习</td>
+<td>系统构造复杂、变化频繁，且知识、技能淘汰快，深入学习困难。</td>
+<td>系统构造简单、稳定，且知识、技能传承性好，深入学习相对容易。</td>
+</tr>
+<tr>
+<td>软件</td>
+<td>每一种特定功能可能都需要商业软件的支持，需要购买相应的授权。</td>
+<td>大部分软件都可以自由获取，同样功能的软件选择较少。</td>
+</tr>
+</tbody>
+</table>
+</div></template>
+
+

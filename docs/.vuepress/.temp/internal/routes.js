@@ -2,6 +2,7 @@ export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"G:/Blog/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"hello"} }],
+  ["/Linux/00.Introduction%20to%20Linux.html", { loader: () => import(/* webpackChunkName: "00.Introduction to Linux.html" */"G:/Blog/docs/.vuepress/.temp/pages/Linux/00.Introduction to Linux.html.js"), meta: {"title":"Linux简介"} }],
   ["/database/MongoDB/MongoDB.html", { loader: () => import(/* webpackChunkName: "MongoDB.html" */"G:/Blog/docs/.vuepress/.temp/pages/database/MongoDB/MongoDB.html.js"), meta: {"title":""} }],
   ["/database/MySQL/MySQL.html", { loader: () => import(/* webpackChunkName: "MySQL.html" */"G:/Blog/docs/.vuepress/.temp/pages/database/MySQL/MySQL.html.js"), meta: {"title":""} }],
   ["/database/Redis/Redis.html", { loader: () => import(/* webpackChunkName: "Redis.html" */"G:/Blog/docs/.vuepress/.temp/pages/database/Redis/Redis.html.js"), meta: {"title":""} }],

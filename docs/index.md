@@ -6,7 +6,7 @@ heroImage: https://s3.bmp.ovh/imgs/2022/12/02/bc7428e3916c3a4c.jpg
 heroText: Hero标题
 tagline: Hero副标题
 actionText: 快速上手→
-actionLink: /README.md
+actionLink: /index.md
 features:
 - title: 简洁至上
   details: 以Markdown为中心的项目结构，以最少的配置帮助你专注于写作。
