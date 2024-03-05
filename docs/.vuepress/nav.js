@@ -90,7 +90,19 @@ module.exports = [
             {
                 text: 'Linux简介',
                 link: '../Linux/00.Introduction to Linux.md'
+            },
+            {
+                text: 'Linux Ubuntn安装',
+                link: '../Linux/01.Linux installation.md'
             }
         ]
+    },
+    {
+        text: 'vuepress',
+        link: '../about/vuepress.md'
+    },
+    {
+        text: '关于',
+        link: '../about/about.md'
     }
 ];

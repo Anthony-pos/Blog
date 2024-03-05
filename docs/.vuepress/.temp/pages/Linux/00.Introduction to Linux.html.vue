@@ -1,9 +1,9 @@
 <template><div><h1 id="linux简介" tabindex="-1"><a class="header-anchor" href="#linux简介"><span>Linux简介</span></a></h1>
 <hr>
 <p>什么是Linux？相信你既然来学习Linux，那么对于Linux或多或少有了一定的认识，在此我就不过多赘述。</p>
-<blockquote>
+<div class="custom-container tip"><p class="custom-container-title">什么是Linux？</p>
 <p>Linux 是一个开源的、类 Unix 操作系统的内核。它是一个典型的多用户、多任务操作系统，广泛用于服务器、嵌入式系统和个人计算机等各种领域。Linux 内核最初由芬兰程序员 Linus Torvalds 在1991年创建，并在之后得到了全球范围内的贡献。</p>
-</blockquote>
+</div>
 <h2 id="本篇适合谁阅读" tabindex="-1"><a class="header-anchor" href="#本篇适合谁阅读"><span>本篇适合谁阅读？</span></a></h2>
 <p>关于Linux的知识繁多，本篇以Linux的发行版本Ubuntu为例，侧重于Linux命令，文件管理，服务器等方面，适合初次接触Linux的新人阅读。</p>
 <h2 id="linux的特点" tabindex="-1"><a class="header-anchor" href="#linux的特点"><span>Linux的特点</span></a></h2>

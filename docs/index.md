@@ -1,12 +1,16 @@
 ---
 lang: zh-CN
-title: hello
 home: true
 heroImage: https://s3.bmp.ovh/imgs/2022/12/02/bc7428e3916c3a4c.jpg
 heroText: Hero标题
 tagline: Hero副标题
-actionText: 快速上手→
-actionLink: /index.md
+actions:
+  - text: 快速上手
+    link: /Linux/00.Introduction to Linux.md
+    type: primary
+  - text: 项目简介
+    link: /Linux/00.Introduction to Linux.md
+    type: secondary
 features:
 - title: 简洁至上
   details: 以Markdown为中心的项目结构，以最少的配置帮助你专注于写作。
@@ -20,5 +24,5 @@ features:
   details: 灵活的插件API，使得插件可以为你的站点提供许多即插即用的功能。
 - title: 打包工具
   details: 默认的打包工具是 Vite ，也同样支持 Webpack 。选一个你喜欢的来使用吧！
-footer: ISC协议 | 版权所有 Ahthony-pos
+footer: ISC协议 | 版权所有 Anthony-pos
 ---

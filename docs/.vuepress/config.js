@@ -16,4 +16,5 @@ export default defineUserConfig({
         lastUpdated: '上次更新',
     }),
     pagePatterns: ['**/*.md', '!**/README.md', '!.vuepress', '!node_modules'],
+    title: 'Anthony'
 })
